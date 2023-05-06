@@ -1,7 +1,7 @@
 apiVersion: argoproj.io/v1alpha1
 kind: Application
 metadata:
-  name: hipstershopapp
+  name: hipstershop
   namespace: argocd
 spec:
   project: default
